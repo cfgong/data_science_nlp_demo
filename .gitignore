@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+__pycache__/
+aws.py
+.DS_Store
