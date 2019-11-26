@@ -19,3 +19,8 @@ For a better in browser viewing experience (than the one provided on github) use
   - actually applying all the concepts to `document_tags` table of Chicago Police Database for document tagging of allegations
   - how to run sql queries directly in Python (using `psycopg2`)
   - document tagging for cpdb
+
+To install dependencies:
+```
+pip3 install -r requirements.txt
+```
