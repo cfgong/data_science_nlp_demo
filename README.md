@@ -6,9 +6,11 @@ For a better in browser viewing experience (than the one provided on github) use
   - crash course on spaCy functionality for NLP in Python
   - tokenization
   - lemmatization
+  - stopwords
   - parts-of-speech tagging
   - word vectors
-  - TODO: named entity relation
+  - token matching
+  - phrase matching
 - [ML for NLP.ipynb](https://nbviewer.jupyter.org/github/cfgong/data_science_nlp_demo/blob/master/ML%20for%20NLP.ipynb)
   - Naive Bayes Classifier
   - preprocessing data sets
@@ -16,3 +18,4 @@ For a better in browser viewing experience (than the one provided on github) use
 - [Applying NLP to CPDB.ipynb](https://nbviewer.jupyter.org/github/cfgong/data_science_nlp_demo/blob/master/Applying%20NLP%20to%20CPDB.ipynb)
   - actually applying all the concepts to `document_tags` table of Chicago Police Database for document tagging of allegations
   - how to run sql queries directly in Python (using `psycopg2`) 
+  - document tagging for cpdb
